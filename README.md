@@ -82,4 +82,3 @@ The dashboard will open in your default web browser at `http://localhost:8501`.
 2. **Strategy Selection:** Choose between "ROI-First" (prioritizing score gain per rupee) or "Equity-First" (prioritizing the lowest-performing schools).
 3. **Simulation:** The dashboard will forecast performance over the selected timeframe (1-15 years).
 4. **Analysis:** Use the "Geospatial Analysis" tab to view regional impact and the "Year-by-Year Plan" tab to review specific budget allocations.
-
