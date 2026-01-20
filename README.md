@@ -39,26 +39,29 @@ The application is built using Python and consists of three core components:
 ## Installation and Setup
 
 ### 1. Clone the Repository
-
+```bash
 git clone [https://github.com/YOUR_USERNAME/Educational-Equity-Analytics-Dashboard.git](https://github.com/YOUR_USERNAME/Educational-Equity-Analytics-Dashboard.git)
 cd Educational-Equity-Analytics-Dashboard
 
+```
 
 ### 2. Install Dependencies
 
 Ensure you have Python installed. Install the required libraries using pip:
 
-
+```bash
 pip install -r requirements.txt
 
-
+```
 
 ### 3. Initialize the Model
 
+**Important:** You must run this script first. It generates the synthetic dataset and trains the predictive model required for the dashboard to function.
 
+```bash
 python train_ai_planner.py
 
-
+```
 
 *Output: This will create `school_master_dataset.csv`, `risk_predictor_model.joblib`, and `feature_importances.json`.*
 
@@ -66,10 +69,10 @@ python train_ai_planner.py
 
 Launch the application locally:
 
-
+```bash
 streamlit run dashboard_app.py
 
-
+```
 
 The dashboard will open in your default web browser at `http://localhost:8501`.
 
