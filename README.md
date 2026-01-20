@@ -12,8 +12,9 @@ This project addresses the challenge of educational disparity in Tamil Nadu by u
 * **Automated Reporting:** Generates downloadable PDF strategic plans and CSV datasets for external reporting.
 
 ## Dashboard Preview
-[INSERT SCREENSHOT HERE]
-*(Drag and drop your dashboard screenshot above this line)*
+<img width="959" height="502" alt="ss1" src="https://github.com/user-attachments/assets/8a884c50-6e39-4dac-8516-9d5a22a76990" />
+<img width="676" height="389" alt="ss2" src="https://github.com/user-attachments/assets/64ff2164-c2ee-41c2-9ce1-7093399df8ab" />
+<img width="671" height="395" alt="ss3" src="https://github.com/user-attachments/assets/e21a4696-d1c2-4633-97a1-a254b834f8c9" />
 
 ## Technical Architecture
 The application is built using Python and consists of three core components:
