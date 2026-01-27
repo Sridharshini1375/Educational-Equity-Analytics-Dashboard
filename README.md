@@ -11,9 +11,6 @@ This project addresses the challenge of educational disparity in Tamil Nadu by u
 * **Budget Optimization:** Implements algorithmic strategies to allocate limited financial resources, supporting both "ROI-First" (efficiency) and "Equity-First" (fairness) approaches.
 * **Automated Reporting:** Generates downloadable PDF strategic plans and CSV datasets for external reporting.
 
-## Dashboard Preview
-
-
 ## Technical Architecture
 The application is built using Python and consists of three core components:
 
@@ -39,7 +36,7 @@ The application is built using Python and consists of three core components:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Educational-Equity-Analytics-Dashboard.git](https://github.com/YOUR_USERNAME/Educational-Equity-Analytics-Dashboard.git)
+git clone [https://github.com/Sridharshini1375/Educational-Equity-Analytics-Dashboard.git](https://github.com/Sridharshini1375/Educational-Equity-Analytics-Dashboard.git)
 cd Educational-Equity-Analytics-Dashboard
 
 ```
@@ -73,7 +70,7 @@ streamlit run dashboard_app.py
 
 ```
 
-The dashboard will open in your default web browser at `http://localhost:8501`.
+The dashboard will open in your default web browser.
 
 ## Usage Guide
 
